@@ -1,0 +1,121 @@
+,contrast,estimate,SE,df,t.ratio,p.value,contrast
+1,Dry North DD - Wet North DD,-5.049641563,1.737878012,807.557386,-2.905636372,0.003765235,Dry North DD - Wet North DD
+2,Dry North DD - Dry South DD,-1.167553331,2.982726619,3.819665725,-0.391438264,0.716322504,Dry North DD - Dry South DD
+,,,,,,,
+4,Dry North DD - Dry North DW,-0.46118971,1.695599921,807.6588583,-0.271992056,0.785697641,Dry North DD - Dry North DW
+,,,,,,,
+,,,,,,,
+,,,,,,,
+8,Dry North DD - Dry North WD,1.089277848,1.739361007,807.8189395,0.626251735,0.53132675,Dry North DD - Dry North WD
+,,,,,,,
+,,,,,,,
+,,,,,,,
+12,Dry North DD - Dry North WW,-0.339203212,1.729436943,809.5311941,-0.196135056,0.844553682,Dry North DD - Dry North WW
+13,Dry North DD - Wet North WW,-3.846943106,1.748338049,809.6244246,-2.200342839,0.028064328,Dry North DD - Wet North WW
+,,,,,,,
+,,,,,,,
+,,,,,,,
+17,Wet North DD - Wet South DD,-1.20868878,2.979847562,3.805125109,-0.405621011,0.70678614,Wet North DD - Wet South DD
+,,,,,,,
+19,Wet North DD - Wet North DW,-0.254754504,1.705892808,807.8097453,-0.149337932,0.88132426,Wet North DD - Wet North DW
+,,,,,,,
+,,,,,,,
+,,,,,,,
+23,Wet North DD - Wet North WD,2.954046335,1.760027518,808.1417157,1.678409176,0.093653855,Wet North DD - Wet North WD
+,,,,,,,
+,,,,,,,
+26,Wet North DD - Dry North WW,4.710438351,1.743393779,810.2037549,2.701878605,0.007039056,Wet North DD - Dry North WW
+27,Wet North DD - Wet North WW,1.202698457,1.761252506,810.1804571,0.682865434,0.494887087,Wet North DD - Wet North WW
+,,,,,,,
+,,,,,,,
+30,Dry South DD - Wet South DD,-5.090777012,1.598635782,807.136176,-3.184450811,0.001505953,Dry South DD - Wet South DD
+,,,,,,,
+,,,,,,,
+33,Dry South DD - Dry South DW,1.266531893,1.586264542,807.2490536,0.798436742,0.424851917,Dry South DD - Dry South DW
+,,,,,,,
+,,,,,,,
+,,,,,,,
+37,Dry South DD - Dry South WD,4.367826551,1.631959863,807.7001502,2.676430132,0.007591939,Dry South DD - Dry South WD
+,,,,,,,
+,,,,,,,
+,,,,,,,
+41,Dry South DD - Dry South WW,1.658124255,1.593266267,807.3309193,1.040707564,0.298322849,Dry South DD - Dry South WW
+42,Dry South DD - Wet South WW,-4.455370684,1.586256683,807.2472937,-2.808732491,0.005093829,Dry South DD - Wet South WW
+,,,,,,,
+,,,,,,,
+,,,,,,,
+46,Wet South DD - Wet South DW,1.272563142,1.570680171,807.1156057,0.81019877,0.418064754,Wet South DD - Wet South DW
+,,,,,,,
+,,,,,,,
+,,,,,,,
+50,Wet South DD - Wet South WD,3.851098223,1.608088449,807.425753,2.394829852,0.016855079,Wet South DD - Wet South WD
+,,,,,,,
+,,,,,,,
+53,Wet South DD - Dry South WW,6.748901267,1.577757685,807.1934453,4.277527109,2.12E-05,Wet South DD - Dry South WW
+54,Wet South DD - Wet South WW,0.635406328,1.570675108,807.1144344,0.404543451,0.685920314,Wet South DD - Wet South WW
+55,Dry North DW - Wet North DW,-4.843206357,1.658488671,807.1301509,-2.920252903,0.003594885,Dry North DW - Wet North DW
+56,Dry North DW - Dry South DW,0.560168271,2.945047096,3.631090484,0.190206898,0.859299776,Dry North DW - Dry South DW
+,,,,,,,
+58,Dry North DW - Dry North WD,1.550467558,1.70780954,808.3517605,0.907869128,0.364217939,Dry North DW - Dry North WD
+,,,,,,,
+,,,,,,,
+,,,,,,,
+62,Dry North DW - Dry North WW,0.121986498,1.697168767,809.9883461,0.071876469,0.94271796,Dry North DW - Dry North WW
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+67,Wet North DW - Wet South DW,0.318628866,2.945233311,3.631936201,0.108184593,0.91955813,Wet North DW - Wet South DW
+,,,,,,,
+69,Wet North DW - Wet North WD,3.208800839,1.718194593,808.4302083,1.867542159,0.062187569,Wet North DW - Wet North WD
+,,,,,,,
+,,,,,,,
+,,,,,,,
+73,Wet North DW - Wet North WW,1.457452961,1.71655779,810.1209129,0.849055575,0.396101189,Wet North DW - Wet North WW
+,,,,,,,
+,,,,,,,
+76,Dry South DW - Wet South DW,-5.084745763,1.556206213,807.0040576,-3.267398446,0.001131286,Dry South DW - Wet South DW
+,,,,,,,
+,,,,,,,
+79,Dry South DW - Dry South WD,3.101294659,1.602741436,807.3834702,1.934993748,0.053340024,Dry South DW - Dry South WD
+,,,,,,,
+,,,,,,,
+,,,,,,,
+83,Dry South DW - Dry South WW,0.391592363,1.563628817,807.1026519,0.250438185,0.802312238,Dry South DW - Dry South WW
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+88,Wet South DW - Wet South WD,2.578535081,1.593999049,807.2812092,1.617651581,0.106128341,Wet South DW - Wet South WD
+,,,,,,,
+,,,,,,,
+,,,,,,,
+92,Wet South DW - Wet South WW,-0.637156814,1.556476589,807.0419226,-0.409358431,0.68238526,Wet South DW - Wet South WW
+93,Dry North WD - Wet North WD,-3.184873076,1.754653991,807.2152384,-1.815100351,0.06987948,Dry North WD - Wet North WD
+94,Dry North WD - Dry South WD,2.110995372,2.997345611,3.894684957,0.704288276,0.521080912,Dry North WD - Dry South WD
+,,,,,,,
+96,Dry North WD - Dry North WW,-1.42848106,1.732801273,808.3203805,-0.824376737,0.409968715,Dry North WD - Dry North WW
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+101,Wet North WD - Wet South WD,-0.311636892,2.998184956,3.899159661,-0.10394185,0.922341493,Wet North WD - Wet South WD
+,,,,,,,
+103,Wet North WD - Wet North WW,-1.751347878,1.760880918,808.4018134,-0.99458621,0.32023516,Wet North WD - Wet North WW
+,,,,,,,
+,,,,,,,
+106,Dry South WD - Wet South WD,-5.607505341,1.634569531,807.0309994,-3.430570088,0.000632912,Dry South WD - Wet South WD
+,,,,,,,
+,,,,,,,
+109,Dry South WD - Dry South WW,-2.709702296,1.609117886,807.4025347,-1.683967545,0.092574459,Dry South WD - Dry South WW
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+114,Wet South WD - Wet South WW,-3.215691895,1.5939921,807.2796202,-2.017382579,0.043986097,Wet South WD - Wet South WW
+115,Dry North WW - Wet North WW,-3.507739894,1.726236053,807.0566773,-2.032016356,0.042479054,Dry North WW - Wet North WW
+116,Dry North WW - Dry South WW,0.829774136,2.968754327,3.747195187,0.27950246,0.794601492,Dry North WW - Dry South WW
+,,,,,,,
+,,,,,,,
+119,Wet North WW - Wet South WW,-1.775980909,2.975470443,3.780652628,-0.596873988,0.584487408,Wet North WW - Wet South WW
+120,Dry South WW - Wet South WW,-6.113494939,1.563624825,807.1016965,-3.909822126,0.000100123,Dry South WW - Wet South WW

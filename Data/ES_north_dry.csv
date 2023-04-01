@@ -1,0 +1,19 @@
+Trait,ES,Factor
+Germ,0,TRTHIS
+Leaf #,0.018386874,TRTHIS
+Diameter,0,TRTHIS
+Height,0,TRTHIS
+Flowering,0.112010886,TRTHIS
+Flower #,0.077303028,TRTHIS
+Biomass,0,TRTHIS
+Root,0,TRTHIS
+Germ,0.038028564,Year
+Leaf #,0.002351496,Year
+Diameter,0,Year
+Height,0.000370907,Year
+Flowering,0.003034237,Year
+Flower #,0.011270569,Year
+Biomass,0.013928878,Year
+Root,0,Year
+SLA,0,Year
+SLA,0.020,TRTHIS
